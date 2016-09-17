@@ -1,3 +1,46 @@
+<a name="0.2.9"></a>
+# 0.2.9 (2016-09-14)
+* Angular 2.0.0 version
+* Update to Typescript 2.0.2
+* Fix e2e test missing dir
+
+<a name="0.2.8"></a>
+# 0.2.8 (2016-09-01)
+* remove @angular test libraries from system.js (now in shim)
+* update test related files
+* wallaby doesn't completely work. Researching.
+
+<a name="0.2.7"></a>
+# 0.2.7 (2016-08-31)
+* Angular 2 RC6 version
+* Updated new forms, router, angular2-in-memory-web-api, karma, core-js, rxjs and zone.js packages
+* Removed router-deprecated package
+* Updated karma.conf.js and systemjs.config.js
+
+<a name="0.2.6"></a>
+# 0.2.6 (2016-08-09)
+* Angular 2 RC5 version
+* Updated new forms, router and angular2-in-memory-web-api
+
+<a name="0.2.5"></a>
+# 0.2.5 (2016-06-30)
+* Angular 2 RC4 version
+* Updated new forms and router
+
+<a name="0.2.4"></a>
+# 0.2.4 (2016-06-21)
+* Angular 2 RC3 version
+* Add new forms and router
+* Add support for TS e2e tests
+
+<a name="0.2.3"></a>
+# 0.2.3 (2016-06-15)
+* Angular 2 RC2 version
+
+<a name="0.2.2"></a>
+# 0.2.2 (2016-05-21)
+* Update to Typings 1.x
+
 <a name="0.2.1"></a>
 # 0.2.1 (2016-05-03)
 * Angular 2 RC01 version
